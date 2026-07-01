@@ -9,7 +9,7 @@
  * ============================================ */
 
 const galleryData = [
-  // ========== 黑丝·都市经典（21张）==========
+  // ========== 黑丝·都市经典==========
   { id: 1,  category: 'classic',  title: '黑丝美腿·酒店大堂',         src: 'images/black-classic/01.jpg' },
   { id: 2,  category: 'classic',  title: '性感黑丝·露台夕阳',          src: 'images/black-classic/02.jpg' },
   { id: 3,  category: 'classic',  title: '丝袜美女·复古图书馆',        src: 'images/black-classic/03.jpg' },
@@ -32,7 +32,7 @@ const galleryData = [
   { id: 20, category: 'classic',  title: '性感黑丝·威尼斯贡多拉',      src: 'images/black-classic/20.jpg' },
   { id: 21, category: 'classic',  title: '丝袜美女·007 赌场',          src: 'images/black-classic/21.jpg' },
 
-  // ========== 黑丝·全球地标（20张）==========
+  // ========== 黑丝·全球地标==========
   { id: 22, category: 'landmark', title: '黑丝美腿·埃菲尔铁塔',        src: 'images/black-landmark/22.jpg' },
   { id: 23, category: 'landmark', title: '性感黑丝·迪拜帆船酒店',      src: 'images/black-landmark/23.jpg' },
   { id: 24, category: 'landmark', title: '丝袜美女·阿尔卑斯木屋',      src: 'images/black-landmark/24.jpg' },
@@ -54,7 +54,7 @@ const galleryData = [
   { id: 40, category: 'landmark', title: '黑丝美腿·豪华游艇',          src: 'images/black-landmark/40.jpg' },
   { id: 41, category: 'landmark', title: '性感黑丝·巴黎圣母院',        src: 'images/black-landmark/41.jpg' },
 
-  // ========== 肉丝·柔美知性（6张）==========
+  // ========== 肉丝·柔美知性==========
   { id: 42, category: 'nude',     title: '肉丝美腿·哥特大教堂',        src: 'images/nude/01.jpg' },
   { id: 43, category: 'nude',     title: '知性肉丝·巴黎香水专柜',      src: 'images/nude/02.jpg' },
   { id: 44, category: 'nude',     title: '肉丝美腿·花艺工作室',        src: 'images/nude/03.jpg' },
