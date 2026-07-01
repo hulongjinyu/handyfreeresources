@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /js/
 
-Sitemap: http://handyfreeresources.com/sitemap.xml
+Sitemap: https://handyfreeresources.com/sitemap.xml
