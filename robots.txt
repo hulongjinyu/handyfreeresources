@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /js/
-
 Sitemap: https://handyfreeresources.com/sitemap.xml
